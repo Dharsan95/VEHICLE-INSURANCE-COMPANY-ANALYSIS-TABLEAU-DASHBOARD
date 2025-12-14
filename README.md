@@ -67,8 +67,8 @@ The entire analysis is built using **Tableau**, with interactive dashboards desi
 ---
 
 ## 👤 Author
-**Sri Krishna Dharsan** 
-Skills: Tableau | Power BI | SQL | Excel | Python  
+**SRI KRISHNA DHARSAN**
+- Skills: Tableau | Power BI | SQL | Excel | Python  
 
 ---
 
