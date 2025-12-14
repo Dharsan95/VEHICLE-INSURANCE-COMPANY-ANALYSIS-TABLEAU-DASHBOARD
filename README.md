@@ -62,7 +62,7 @@ The entire analysis is built using **Tableau**, with interactive dashboards desi
 ---
 
 ## 🌐 Tableau Public Link
-👉 *(Add your Tableau Public dashboard link here)*
+👉 https://public.tableau.com/views/VEHICLEINSURANCEANALYSIS/D1POLICYPORTFOLIOOVERVIEW?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
